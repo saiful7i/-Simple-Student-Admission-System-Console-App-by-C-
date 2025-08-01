@@ -13,8 +13,8 @@ This C# console application simulates a student admission system based on GPA an
 ## Flowchart
 
 The following flowchart illustrates the logic of the program:
+![App Screenshot](https://github.com/saiful7i/-Simple-Student-Admission-System-Console-App-by-C-/blob/main/jpeg%20(1).jpeg)
 
-
-
-## Sample Output
+## Output
+![App Screenshot](https://github.com/saiful7i/-Simple-Student-Admission-System-Console-App-by-C-/blob/main/Screenshot%202025-08-01%20143403.png)
 
